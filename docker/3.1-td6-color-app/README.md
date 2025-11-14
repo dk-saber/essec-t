@@ -15,7 +15,7 @@ Une application Flask simple qui démontre l'utilisation des variables d'environ
 ### 1. Cloner le repository
 
 ```bash
-git clone https://github.com/dk-saber/color-app.git
+git clone https://github.com/dk-saber/docker/3.1-td6-color-app.git
 cd color-app
 ```
 
