@@ -1,4 +1,4 @@
-# TD4 : Application Flask - Variables d'Environnement Docker
+# TD6 : Variables d'Environnement Docker - Application Flask
 
 Une application Flask simple qui démontre l'utilisation des variables d'environnement Docker pour configurer dynamiquement la couleur de fond d'une page web.
 
@@ -15,8 +15,8 @@ Une application Flask simple qui démontre l'utilisation des variables d'environ
 ### 1. Cloner le repository
 
 ```bash
-git clone https://github.com/dk-saber/docker/3.1-td6-color-app.git
-cd color-app
+git clone https://github.com/dk-saber/essec-t.git
+cd docker/color-app
 ```
 
 ### 2. Créer le Dockerfile
