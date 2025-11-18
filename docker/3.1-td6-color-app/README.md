@@ -16,7 +16,7 @@ Une application Flask simple qui démontre l'utilisation des variables d'environ
 
 ```bash
 git clone https://github.com/dk-saber/essec-t.git
-cd docker/color-app
+cd essec-t/docker/3.1-td6-color-app
 ```
 
 ### 2. Créer le Dockerfile
